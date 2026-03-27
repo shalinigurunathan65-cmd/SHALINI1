@@ -1,0 +1,12 @@
+.one{
+    background-attachment: fixed;
+    height:1000px;
+    width: 1100px;
+    background-image: url(./dog.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    font-style: italic;
+    color: black;
+    
+
+}
